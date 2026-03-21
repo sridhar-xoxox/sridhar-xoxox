@@ -1,29 +1,44 @@
-# Hello there 👋
-
-⚙️ **Tech**
-`Python` `TypeScript` `React` `HTML` `CSS` `JavaScript`
-
-🌐 **Links**
-[Instagram](https://www.instagram.com/_sridhar_gs/) • [Portfolio](https://sridhar.pages.dev) • [Resume](https://drive.google.com/file/d/168V1EnWdv8SEnc5IUZe54j_ofc-oPidg/view)
-
-💡 **About**
-Cybersecurity + Web Dev  
-Learning ethical hacking & building real-world projects
+<h1 align="center">Hi 👋, I'm Sridhar</h1>
+<h3 align="center">Cybersecurity Enthusiast | Developer | Creative Technologist</h3>
 
 ---
-⭐ Open to collaborate & build something meaningful
 
-<!--
-**sridhar-xoxox/sridhar-xoxox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+- 🔐 Focused on **Cybersecurity & Ethical Hacking**
+- 🌐 Building projects with **Web Technologies**
+- ☁️ Exploring **Cloud & DevOps**
+- 🎬 Skilled in **Video Editing & Digital Media**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ What I Do
+- Identify and analyze security vulnerabilities  
+- Build responsive and clean web interfaces  
+- Work on real-world cybersecurity concepts (IDS, forensics)  
+- Create high-impact digital content  
+
+---
+
+🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git,aws,docker,photoshop,aftereffects,premierepro" />
+</p>
+
+---
+
+📂 Projects
+- 🌍 Portfolio: https://sridhar.pages.dev  
+- 💻 More projects coming with real-world applications  
+
+---
+
+📫 Connect With Me
+<p align="left">
+<a href="https://www.instagram.com/_sridhar_gs/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+</p>
+
+---
+
+### ⚠️ Note
+I focus on **learning by building**, not just consuming tutorials.
