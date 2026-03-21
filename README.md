@@ -11,14 +11,6 @@
 
 ---
 
-⚡ What I Do
-- Identify and analyze security vulnerabilities  
-- Build responsive and clean web interfaces  
-- Work on real-world cybersecurity concepts (IDS, forensics)  
-- Create high-impact digital content  
-
----
-
 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git,aws,docker,photoshop,aftereffects,premierepro" />
