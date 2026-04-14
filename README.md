@@ -26,7 +26,6 @@
 
 📫 Connect With Me
 <p align="left">
-<a href="https://www.instagram.com/_sridhar_gs/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 <a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
 </p>
 
