@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **SRIDHAR20051234@GMAIL.COM**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vvHySUJ-TBQtqhwrTlCP4R_yHRqB7EZX/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zKycFgocx3xdhzrhpxLp24nVrfO9R5M0/view?usp=drive_link)
 
 <h2>🚀 Languages and Tools I Use</h2>
 
